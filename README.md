@@ -1,6 +1,8 @@
 # Marching Cubes Terrain Generator
 
-[![Video demonstration](https://i.ytimg.com/vi/ZSce-SZAOx8/hqdefault.jpg)](https://youtu.be/ZSce-SZAOx8)
+![An example terrain generated using this method](https://i.imgur.com/8FNPoXl.jpg)
+
+[Video demonstration](https://youtu.be/ZSce-SZAOx8)
 
 This repository contains code for a fully parallelised implementation of the marching cubes algorithm for usage in terrain generation, written in HLSL and using DirectX 11. All of the CPU-side DirectX code has been included in addition to the shader code.
 
